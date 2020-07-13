@@ -1,0 +1,30 @@
+.container {
+  height: auto;
+  display: flex;
+  justify-content: center;
+}
+.select {
+  width: 200px;
+  border: none;
+  border-radius: 12px;
+  background-color: #f3f3f3;
+  margin: 0 30px;
+  outline: none;
+  padding-left: 50px;
+  font-size: 18px;
+}
+.button {
+  height: 50px;
+  width: 50px;
+  background-color: darkgoldenrod;
+  border: none;
+  border-radius: 12px;
+  outline: none;
+  cursor: pointer;
+  font-weight: bold;
+  color: #f3f3f3;
+}
+.null {
+  cursor: not-allowed;
+  background-color: darkgray;
+}

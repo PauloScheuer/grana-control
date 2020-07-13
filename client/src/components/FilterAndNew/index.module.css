@@ -1,0 +1,26 @@
+.container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  height: 50px;
+}
+.button {
+  width: 200px;
+  padding: 10px 5px 10px 5px;
+  font-size: 24px;
+  background-color: darkgoldenrod;
+  border: none;
+  border-radius: 12px;
+  outline: none;
+  cursor: pointer;
+  color: #f3f3f3;
+}
+.filter {
+  margin-left: 10px;
+  padding: 10px 5px 10px 5px;
+  font-size: 18px;
+  width: 100%;
+  border: none;
+  border-bottom: 2px solid lightgray;
+  outline: none;
+}
